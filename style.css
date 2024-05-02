@@ -1,0 +1,248 @@
+ #head{
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    padding: 1%;
+ }
+   
+.elaqeink{
+    list-style: none;
+   display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: disc;
+    
+    
+}
+.text1{
+    color: white;
+}
+.icon {
+    background-color:#c7c7c7;
+   
+    
+}
+.bloglist{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 21px;
+   
+}
+.basliq{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+.text2{
+    color:#4c4c4c;
+    text-decoration: none;
+}
+.About{
+color: white;
+font-weight: 900px;
+text-align: center;
+
+}
+.color{
+    background-color:#f35522;
+    padding: 10%;
+    margin-bottom: 0;
+    background-size: cover;
+  
+}
+ .button {
+   background-color:white ;
+    color:#f04e26 ;
+    border-radius: 30%;
+    padding:  20px 40px;
+    border: solid 1px #f04e26 ;
+    font-family: "Poppins", sans-serif;
+  font-size: 20px;
+
+} 
+.button :hover{
+    background-color: #f04e26;
+}
+ 
+
+#section{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-around;
+}
+.text3{
+    font-size: 30px;
+}
+.button2{
+    background-color:#f04e26 ;
+    color: white;
+    border-radius: 30%;
+    padding:  20px 40px;
+    border: solid 1px #f04e26 ;
+    margin-top: 500px;
+   margin-left: -900px;
+  font-size: 20px;
+}
+#section2{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.text4{
+    border: solid white 1px;
+text-align: center;}
+.text5{
+    font-size: 30px;
+
+}
+.text6{
+    font-weight: 900;
+}
+.text7{
+    box-shadow: 0px 16px 35px 0px rgba(0, 0, 2, 0.08);;
+    padding: 30px 100px;
+    display: inline;
+    
+}
+.text8{
+    box-shadow:0px 15px 35px 0px;
+    display: flex;
+}
+.metn{
+    text-align: center;}
+   
+.png{
+    margin-right: 400px;
+}
+.dog{
+   display: flex;
+   gap: 15px;
+   align-items: center;
+   justify-content: space-around;
+   color: white;
+   background-color: #f04e26;
+  height: 800px;
+}
+.pets{
+    font-weight: 900;
+
+}
+
+.text9{
+    line-height: 25px;
+    font-size: 30px;
+ margin-bottom: 5%;
+ margin-left: 19%;
+}
+.dogimg{
+    
+}
+.lorem{
+    
+    font-size: 50px;
+    font-weight: 700;
+}
+.service{
+    text-align: center;
+    line-height: 20px;
+}
+#section3{
+    display: flex;
+    gap: 15px;
+height: 300px;
+width: 700px;
+text-align: center;
+padding: 70px 25px 65px 25px;
+
+}
+.text10{
+    border: solid 1px #f74e15 ;
+ 
+}
+.text11{
+    font-size: 30px;
+}
+.text12{
+    font-weight: 900;
+}
+.adopt{
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.button3{
+    background-color:#f04e26 ;
+    color: white;
+    border-radius: 47%;
+    padding:  20px 40px;
+    border-color: #f04e26 ;
+    font-size: 18px;
+
+}
+.section5{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+    
+  
+}
+
+   .text0{
+    padding: 40px 40px 33px 40px;
+    box-shadow: 0px 16px 35px 0px rgba(0, 0, 2, 0.08);
+    text-align: center;
+  
+   } 
+.section6{
+    
+}
+.team{
+    font-weight: 700;
+   font-family: "Poppins", sans-serif;
+  
+}
+.our{
+    text-align: center;
+    margin-bottom: 6%;
+}
+.contact{
+   
+  
+   
+   background-color: #f04e26;
+    height: 400px;
+   
+    color: white;
+    text-align: center;
+    padding-top: 170px;
+}
+.button5{
+    color: #f04e26;
+    border-radius: 40%;
+    padding: 1%;
+    border: #f04e26 solid 1px;
+}
+
+.link{
+    text-decoration: none;
+   
+    color: #4c4c4c;
+}
+#footer{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: space-around;
+   
+}
